@@ -14,4 +14,4 @@ Repositori ini berisi materi pelatihan interaktif mengenai keamanan data dan pri
 
 Pelatihan ini dapat diakses melalui:
 
-[https://iseeface.github.io/pelatihan-keamanan-data-dan-privasi/](https://iseeface.github.io/pelatihan-keamanan-data-dan-privasi/)
+[https://iseeface.github.io/pelatihan-keamanan-data-dan-privasi](https://iseeface.github.io/pelatihan-keamanan-data-dan-privasi/story.html)
